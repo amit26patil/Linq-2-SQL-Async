@@ -1,0 +1,6 @@
+F:\Study\LinqToSqlAsync\LinqToSqlAsync\bin\Debug\LinqToSqlAsync.exe.config
+F:\Study\LinqToSqlAsync\LinqToSqlAsync\bin\Debug\LinqToSqlAsync.exe
+F:\Study\LinqToSqlAsync\LinqToSqlAsync\bin\Debug\LinqToSqlAsync.pdb
+F:\Study\LinqToSqlAsync\LinqToSqlAsync\obj\Debug\LinqToSqlAsync.csprojResolveAssemblyReference.cache
+F:\Study\LinqToSqlAsync\LinqToSqlAsync\obj\Debug\LinqToSqlAsync.exe
+F:\Study\LinqToSqlAsync\LinqToSqlAsync\obj\Debug\LinqToSqlAsync.pdb
